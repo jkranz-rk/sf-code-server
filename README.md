@@ -2,7 +2,7 @@
 
 Launch automatic cloud dev workspaces ☁️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/surajp/sf-code-server/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jkranz-rk/sf-code-server/tree/main)
 
 ## Why develop on a Heroku dyno?
 
